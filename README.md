@@ -1,4 +1,4 @@
-Sodoku Solver made using Python
+Sudoku Solver made using Python
 Uses backtracking to solve the board
 
 Can edit board at top of file to solve different puzzles.
